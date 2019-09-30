@@ -9,4 +9,8 @@ El segundo programa (DEBE SER ABIERTO EN TERMINAL) implementa la ecuación de BE
 
 El algoritmo propio es una fusión entre el primero y el segundo, usando los robots aleatorios para generar un camino y conseguir un robot inteligente. (El programa se encuentra comentado con más detalle para mejor entendimiento) 
 
-Link a Trello con capturas de pantalla del trabajo hecho: https://trello.com/b/RC5iXSVb/proyecto-ia 
+Link a Trello con capturas de pantalla del trabajo hecho: https://trello.com/b/RC5iXSVb/proyecto-ia
+
+Samuel Alejandro Núñez Montaño
+Josué Alejandro Salas Rodríguez
+David de Jesús Perez Díaz
